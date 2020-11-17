@@ -4,7 +4,7 @@ module.exports = {
         clientSecret:'client_Secret' //s4E8FaCzbLlcRU5KNjS3mxQc
     },
     mongodb:{
-        dbURI:'mongodb+srv://hoangtd:hoangtd21@cluster0.jvsob.mongodb.net/OAuth-NodeJS'
+        dbURI:'mongodb+srv://username:password@cluster0.jvsob.mongodb.net/OAuth-NodeJS'
     },
     session:{
         cookieKey:'hoangtd'
